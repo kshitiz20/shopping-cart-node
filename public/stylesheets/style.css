@@ -1,0 +1,22 @@
+
+.card{
+    height: 450px;
+}
+.card img{
+    max-height: 300px;
+}
+
+.card .description{
+    color: gray; 
+}
+
+.row{
+    padding-top:20px;
+}
+
+.price{
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-style: italic;
+  
+}

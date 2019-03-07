@@ -9,7 +9,7 @@ var products= [new Product({
     description:"Awesome Game!!!!!!!!!!!!!",
     price:12
 }), new Product({
-    imagePath:"https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Call_of_Duty_4_Modern_Warfare.jpg/220px-Call_of_Duty_4_Modern_Warfare.jpg",
+    imagePath:"http://www.chinadaily.com.cn/bizchina/img/2016top10/attachement/jpg/site1/20160216/b083fe955aa1182d1a4909.jpg",
     title:"COD: Modern Warfare",
     description:"Awesome Game!!!!!!!!!!!!!",
     price:12
